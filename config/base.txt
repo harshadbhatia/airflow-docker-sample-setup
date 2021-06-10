@@ -1,0 +1,3 @@
+apache-airflow-providers-microsoft-azure
+azure-storage-blob
+redis
